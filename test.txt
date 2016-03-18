@@ -1,3 +1,5 @@
 test this file
 another line.
 for git.
+
+Hello my friend.
