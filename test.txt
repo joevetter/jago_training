@@ -1,2 +1,4 @@
 test this file
 for git.
+
+Hello my friend.
