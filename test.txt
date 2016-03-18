@@ -1,5 +1,5 @@
 test this file
 another another another lines.
-for git.
+for git. ignore.
 
 Hello my friend.
